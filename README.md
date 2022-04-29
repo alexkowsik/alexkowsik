@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Alex
+## 👋 Hi, I’m Alex
 
 <br>
 
