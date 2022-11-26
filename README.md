@@ -4,7 +4,7 @@
 
 - 🎓  **M.Sc. in Data Engineering and Analytics** at the Technical University of Munich (**TUM**)
 - 🎯  Focus on **Machine/Deep Learning** and **NLP**
-- 💻  Startup working student in **Data Science** at Predict42
+- 💻  Startup working student in **Data/ML Engineering** at Predict42
 
 <br>
 
